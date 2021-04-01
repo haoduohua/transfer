@@ -1,2 +1,3 @@
-# transfer_tmp_report
-transfer tmp to report or transfer  report to tmp
+# transfer
+* transfer tmp to report 
+* transfer  report to tmp
